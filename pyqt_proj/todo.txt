@@ -1,0 +1,7 @@
+* Fix LHI Button, no longer needed, changing format for search list
+
+* Fix the add and remove client buttons
+
+# configurations tab
+
+# folder file scanner
